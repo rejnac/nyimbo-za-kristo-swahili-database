@@ -2,7 +2,7 @@
 
 By sir enock,
 
-The repository contains all the 220 Nyimbo za Kristo hymnal lyrics in Swahili language also called Kiswahili.
+The underway repository contains all the 220 Nyimbo za Kristo hymnal lyrics in Swahili language also called Kiswahili.
 
 Please note that the songs were initially prepared on Videopsalm Church Presentation software, exported in its native (.vpc) format, and extracted as (.Json) file.
 
