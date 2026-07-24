@@ -1,4 +1,4 @@
-# Nymbi za Kristo from Rejnac Foundation.
+# Nyimbo za Kristo from Rejnac Foundation.
 
 By sir enock,
 
