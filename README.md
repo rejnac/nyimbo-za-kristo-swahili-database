@@ -13,6 +13,7 @@ Nyimbo za Kristo is part of several other databases and lyrics based projects th
 2. SDAH: https://tinyurl.com/rejnac-sdah
 3. Dholuo: https://tinyurl.com/rejnac-wende
 4. Kikuyu: https://tinyurl.com/rejnac-kikuyu
+5. Chichewa: https://tinyurl.com/rejnac-chichewa
 
 # Donation contacts
 You can support us in correcting errors or donating towards a team of dedicated developers involved in this noble project.
