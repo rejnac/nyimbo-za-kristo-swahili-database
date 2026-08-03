@@ -1,6 +1,5 @@
 # Nyimbo za Kristo from Rejnac Foundation.
 
-By sir enock,
 
 The repository contains all the 220 Nyimbo za Kristo hymnal lyrics in Swahili language also called Kiswahili.
 
